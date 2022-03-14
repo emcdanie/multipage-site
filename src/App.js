@@ -16,8 +16,8 @@ function App() {
       <nav>
         <h1>My Articles</h1>
         <NavLink exact to ="/">Home</NavLink>
-        <NavLink to = "/about" > About </NavLink>
-        <NavLink to = "/contact" > Contact </NavLink>
+        <NavLink to = "/About" > About </NavLink>
+        <NavLink to = "/Contact" > Contact </NavLink>
       </nav>
 
       <Switch>
